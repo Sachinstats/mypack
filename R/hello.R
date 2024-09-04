@@ -17,5 +17,8 @@ hello <- function() {
   print("Hello, world!")
 }
 hello2 <- function(x) {
-  x*4
+  x^4
+}
+hello3 <- function(x) {
+  x^2
 }
