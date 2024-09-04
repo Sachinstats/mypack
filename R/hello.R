@@ -22,3 +22,8 @@ hello2 <- function(x) {
 hello3 <- function(x) {
   x^2
 }
+hello4 <- function(x) {
+  x^5
+}
+
+devtools::install_github('Sachinstats/mypack')
